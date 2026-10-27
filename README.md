@@ -1,12 +1,11 @@
-# 🍽️ Munch Lab - French Restaurant Landing Page
+Restaurant Landing Page
 
-A modern, elegant, and fully responsive single-page website for **Munch Lab**, a luxury French restaurant[cite: 1]. Designed with a dark aesthetic, refined typography, and high-quality visuals to deliver a premium user experience[cite: 1].
+A modern, elegant, and fully responsive single-page websiteو
 
 ---
 
 ## 🌟 Features
 
-* 📱 **Fully Responsive Layout:** Seamless experience across desktop, tablet, and mobile devices.
 * 🥐 **Hero Section:** Elegant dark wooden header background with prominent call-to-action buttons ("Learn More" & "Book A Visit")[cite: 1].
 * 📍 **Our Location & About:** Dedicated sections detailing company background, philosophy, and location info[cite: 1].
 * 🧭 **Navigation Bar:** Clean header menu with links to Home, About, Blog, News, and Contact[cite: 1].
